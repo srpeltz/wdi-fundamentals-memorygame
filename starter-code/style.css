@@ -1,3 +1,46 @@
 /* This is a multi-line
 comment. Add your CSS code
 from Unit 1 - 5 below  */
+h1 {
+	color: rgb(2,132,130);
+	text-align: center;
+}
+
+
+h2 {
+	color: #ffd700;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+
+footer {
+	text-align: center;
+}
+
+
+.board {
+	display: inline-block;
+	height: 80%;
+	width: 50%;
+}
+
+
+.card {
+	height: 200px;
+	width: 150px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #ffff00;
+	border-radius: 10px;
+}
+
+
+.name {
+	color: #ff0000;
+	text-transform: uppercase;
+}
